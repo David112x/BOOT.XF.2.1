@@ -1,7 +1,7 @@
 # BOOT.XF.2.1
 
 # Setup
-1. ```git clone https://github.com/map220v/BOOT.XF.2.1.git --recursive```
+1. ```git clone https://github.com/David112x/BOOT.XF.2.1.git --recursive```
 2. Install required tools: ```sudo apt install build-essential uuid-dev gcc g++ python2.7 sqlite3 iasl git nasm libtinfo5```
 3. ```sudo ln -s /usr/bin/python2.7 /usr/bin/python```
 4. Set in "boot_images/QcomPkg/toolchainconfig.json" absolute path to :
